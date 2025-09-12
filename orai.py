@@ -1,2 +1,2 @@
 print("órai munka")
-nev = "Kis Pista"
+nev = "Kis Pista"g  
