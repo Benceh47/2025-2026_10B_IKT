@@ -11,7 +11,7 @@ print("2025.09.19")
 print("kérek egy ötöst")
 b=13
 c=14
-d=15
+d=12
 e=16
 f=17
 g =18
