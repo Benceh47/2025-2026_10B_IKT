@@ -6,3 +6,4 @@ nev = "Kis Pista"g
 >>>>>>> orai
 a = 12
 print("sziasztok, ez ötös")
+print("2025.09.19")
