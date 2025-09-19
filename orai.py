@@ -4,3 +4,4 @@ nev = "Kis Pista"
 =======
 nev = "Kis Pista"g  
 >>>>>>> orai
+a = 12
