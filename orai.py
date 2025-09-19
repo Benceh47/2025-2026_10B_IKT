@@ -1,11 +1,11 @@
 print("órai munka")
 <<<<<<< HEAD
-nev = "Kis Pista"
+nev = "Nagy Rozália"
 =======
 nev = "Kis Pista"g  
 >>>>>>> orai
 b = true
-a = 12
+a = 13
 print("sziasztok, ez ötös")
 print("2025.09.19")
 print("kérek egy ötöst")
